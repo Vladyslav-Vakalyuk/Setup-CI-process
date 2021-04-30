@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/setup-ci-process",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vladyslav_Vakaliuk",
+      "email": "email@example.com"
+    }
+  ],
+  "config": {
+    "bin-dir": "scripts"
+  },
+  "require": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
